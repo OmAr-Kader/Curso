@@ -5,26 +5,6 @@ Curso is an education technology applicaion with Chat Feature that provides an o
 Students take courses primarily to improve job-related skills Some courses generate credit toward technical certification
 This is an Android application that allows users to enroll in courses and lecturer articles. The application uses Realm Cloud to store user data and course information. Firebase Cloud Messaging is used to send push notifications to users when new course materials are available. Firebase Storage is used to store course materials such as articles, videos and images. Dropbox is used to backup user data and course materials. Amazon AWS Storage is used to store large files such as videos.
 
-## Screenshots
-
-### Lecturer
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/a3e66fb9-5b3d-4735-ab7a-dc93fbccf7aa"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/ceef1c41-be61-46a4-86cc-f1312033c489"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7ec3b0f2-3068-43e6-897e-1357e9d3107b"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/964e345e-120f-4bc3-b65b-3b27779578c6"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7523781c-a40b-4061-ac7f-34ee78d68a31"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/fe76e41d-9def-4641-a076-e40bec80b742"  width="300" height="667"/>
-
-### Student
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/39b6c1a5-9e93-4b6a-80ce-5d2791c20671"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/d882a859-cc0f-43b1-bdfc-bd24eb168987"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/278e1426-0101-459a-8f35-dcf2f1b653da"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/f78a304c-39a4-4305-bda6-853cc0d1ac3e"  width="300" height="667"/>
-
-### Common
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/1013141c-eb20-489e-b48a-54159dae7ec3"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/215b9677-e377-471d-bafb-fc8c4df4c595"  width="300" height="667"/>
-
 ## Getting Started
 
 To get started with this application, you will need to have Android Studio installed on your computer. You will also need to create accounts with Realm Cloud, Firebase, Dropbox, and Amazon AWS.
@@ -270,3 +250,23 @@ authManager.login(activity, object : SFOAuthCallback {
 [![Firebase Cloud Messaging](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=D9411E&logo=Firebase&logoColor=FFCA28&label=messaging)](https://firebase.google.com/docs/cloud-messaging)
 
 [![Amazon AWS Storage](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=storage)](https://docs.aws.amazon.com/s3/)
+
+## Screenshots
+
+### Lecturer
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/a3e66fb9-5b3d-4735-ab7a-dc93fbccf7aa"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/ceef1c41-be61-46a4-86cc-f1312033c489"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7ec3b0f2-3068-43e6-897e-1357e9d3107b"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/964e345e-120f-4bc3-b65b-3b27779578c6"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7523781c-a40b-4061-ac7f-34ee78d68a31"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/fe76e41d-9def-4641-a076-e40bec80b742"  width="300" height="667"/>
+
+### Student
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/39b6c1a5-9e93-4b6a-80ce-5d2791c20671"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/d882a859-cc0f-43b1-bdfc-bd24eb168987"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/278e1426-0101-459a-8f35-dcf2f1b653da"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/f78a304c-39a4-4305-bda6-853cc0d1ac3e"  width="300" height="667"/>
+
+### Common
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/1013141c-eb20-489e-b48a-54159dae7ec3"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/215b9677-e377-471d-bafb-fc8c4df4c595"  width="300" height="667"/>
