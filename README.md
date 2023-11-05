@@ -8,22 +8,22 @@ This is an Android application that allows users to enroll in courses and lectur
 ## Screenshots
 
 ### Lecturer
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/f152459e-3fd3-4f09-a62f-767447d151fc"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/fb24edec-3e0e-41de-a690-5008a49d9874"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/a4c7854f-ac21-44ba-b8cd-022701136981"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/ecaa9efc-70be-4dbe-8717-ac9c16d0bd47"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/9e8e6ed9-1799-4cb6-908c-f1419baafa2c"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/52f45430-3764-45f9-be86-80f23010b873"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/a3e66fb9-5b3d-4735-ab7a-dc93fbccf7aa"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/ceef1c41-be61-46a4-86cc-f1312033c489"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7ec3b0f2-3068-43e6-897e-1357e9d3107b"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/964e345e-120f-4bc3-b65b-3b27779578c6"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7523781c-a40b-4061-ac7f-34ee78d68a31"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/fe76e41d-9def-4641-a076-e40bec80b742"  width="300" height="667"/>
 
 ### Student
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/b7755cf2-01f9-4add-8282-e9b81a6ddddc"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/8e5ee499-5fb3-437d-80e9-2127a39b9206"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/7f2346ab-2f40-4de5-ab5b-29b7743a6203"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/f4d5b926-2d8b-4d51-bc9e-b861ece584a7"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/39b6c1a5-9e93-4b6a-80ce-5d2791c20671"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/d882a859-cc0f-43b1-bdfc-bd24eb168987"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/278e1426-0101-459a-8f35-dcf2f1b653da"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/f78a304c-39a4-4305-bda6-853cc0d1ac3e"  width="300" height="667"/>
 
 ### Common
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/39f688c5-a95e-43cc-90b1-418033ab7927"  width="300" height="667"/>
-<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/0137857e-246c-4e8c-b58b-9ea878977dfa"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/1013141c-eb20-489e-b48a-54159dae7ec3"  width="300" height="667"/>
+<img src="https://github.com/OmAr-Kader/Curso/assets/137582672/215b9677-e377-471d-bafb-fc8c4df4c595"  width="300" height="667"/>
 
 ## Getting Started
 
