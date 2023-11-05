@@ -1,7 +1,7 @@
 
 # Curso Demo
 
-Curso is an education technology applicaion with Chat Feature that provides an online learning and teaching platform.
+Curso is an education technology application with Chat Feature that provides an online learning and teaching platform.
 Students take courses primarily to improve job-related skills Some courses generate credit toward technical certification
 This is an Android application that allows users to enroll in courses and lecturer articles. The application uses Realm Cloud to store user data and course information. Firebase Cloud Messaging is used to send push notifications to users when new course materials are available. Firebase Storage is used to store course materials such as articles, videos and images. Dropbox is used to backup user data and course materials. Amazon AWS Storage is used to store large files such as videos.
 
