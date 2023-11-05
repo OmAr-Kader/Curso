@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Curso</string>
+    <string name="default_notification_channel_id">Message Channel</string>
+</resources>
