@@ -245,8 +245,6 @@ authManager.login(activity, object : SFOAuthCallback {
 
 [![Retrofit](https://img.shields.io/badge/retrofit-44A833?style=for-the-badge&logoColor=white)](https://pub.dev/packages/retrofit)
 
-[![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)](https://www.mongodb.com/docs/realm/sdk/kotlin/)
-
 [![Realm](https://img.shields.io/static/v1?style=for-the-badge&message=Realm&color=DD344C&logo=Realm&logoColor=FFFFFF&label=)](https://www.mongodb.com/docs/realm/sdk/kotlin/)
 
 [![Firebase Storage](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFCA28&label=storage)](https://firebase.google.com/docs/storage)
