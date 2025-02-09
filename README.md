@@ -5,6 +5,12 @@ Curso is an education technology application with Chat Feature that provides an 
 Students take courses primarily to improve job-related skills Some courses generate credit toward technical certification
 This is an Android application that allows users to enroll in courses and lecturer articles. The application uses Realm Cloud to store user data and course information. Firebase Cloud Messaging is used to send push notifications to users when new course materials are available. Firebase Storage is used to store course materials articles, videos and images. Dropbox is used to backup user data and course materials. Amazon AWS Storage is used to videos.
 
+## 🤩 Support Me
+
+<a href="https://www.buymeacoffee.com/omar_kader">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="200" height="70" alt="Buy Me a Coffee">
+</a>
+
 ## Getting Started
 
 To get started with this application, you will need to have Android Studio installed on your computer. You will also need to create accounts with Realm Cloud, Firebase, Dropbox, and Amazon AWS.
